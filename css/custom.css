@@ -1,0 +1,46 @@
+.logo {
+  width: 130px;
+}
+
+.logo_black {
+  display: none;
+}
+
+.scrolled .logo_gold {
+  display: none;
+}
+.scrolled .logo_black {
+  display: block;
+}
+
+.certification-svg {
+  position: absolute;
+  right: 0;
+  width: 120px;
+}
+
+.education-svg {
+  position: absolute;
+  width: 160px;
+}
+
+#education .container,
+.skill-title {
+  position: relative;
+}
+
+.skill-react {
+  width: 200px;
+}
+
+.img-about {
+  min-height: 500px;
+}
+
+.loder {
+  margin: auto;
+  width: 300px;
+  position: absolute;
+  left: calc(50% - 150px);
+  top: calc(50% - 150px);
+}

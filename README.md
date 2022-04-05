@@ -1,2 +1,3 @@
-# keigo.github.io
- public page
+
+Welcome to my public page.
+if you are my friend, "Long time no see 😉"
